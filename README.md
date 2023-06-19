@@ -4,7 +4,7 @@ This fork adds a Delphi 11 package and a script `build_delphi_11.bat` which
 creates the 32 and 64 bit Debug and Release packages. All binaries are written
 to the local folder
 
-    `Packages\RAD_Studio_11\$(Platform)/$(Config)`
+    Packages\RAD_Studio_11\$(Platform)\$(Config)
 
 This makes this project easier to be used as a git submodule.
 
