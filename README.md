@@ -1,3 +1,13 @@
+# DeltaTestSoftware Fork
+
+This fork adds a Delphi 11 package and a script `build_delphi_11.bat` which
+creates the 32 and 64 bit Debug and Release packages. All binaries are written
+to the local folder
+
+    `Packages\RAD_Studio_11\$(Platform)/$(Config)`
+
+This makes this project easier to be used as a git submodule.
+
 # Virtual-TreeView
 Virtual Treeview is a Delphi treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today. Virtual Treeview starts off with the claim to improve many aspects of existing solutions and introduces some new technologies and principles which were not available before.
 

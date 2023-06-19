@@ -53,3 +53,5 @@ Packages/RAD Studio XE3/VirtualTreesR.lib
 # Folder with repro projects #
 ##############################
 /#*
+
+*.err
