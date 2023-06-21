@@ -55,3 +55,4 @@ Packages/RAD Studio XE3/VirtualTreesR.lib
 /#*
 
 *.err
+*.delphilsp.json
