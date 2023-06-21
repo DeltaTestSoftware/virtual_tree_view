@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-pushd "%~dp0Packages\RAD Studio 11"
+pushd "%~dp0Packages\RAD_Studio_11"
 
 echo Building Project 1 of 2...
 call :build_all VirtualTreesR.dproj
